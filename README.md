@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Vanessa Gois, sou de São Paulo.<br>Este iniciei minha graduação em Análise e Desenvolvimento de Sistemas</p>
+<p align="left">Meu nome é Vanessa Gois, sou de São Paulo.<br>Este ano iniciei minha graduação em Análise e Desenvolvimento de Sistemas</p>
 
 ###
 
