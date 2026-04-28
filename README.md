@@ -11,6 +11,7 @@
 ###
 
 <p align="left">✨ Conhecimento em Power BI, Excel avançado e BI<br>📚 Estou estudando SQL, HTML e Lógica de programação<br>🎯 Minha meta é ser programadora Full Stack</p>
+<p align="left">My english is basic, sorry</p> 
 
 ###
 
